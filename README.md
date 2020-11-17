@@ -9,3 +9,5 @@
 - Create an account in binance, get your required api-keys and paste them in `config.py`
 - Run `bot.py`
 
+**Fun fact:**
+Entire bot was made under 100 lines of code.
